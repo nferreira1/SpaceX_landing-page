@@ -1,2 +1,2 @@
 # landing-page
-Landing page made with HTML, CSS, SASS and JavaScript.
+Landing page made with HTML, CSS, SASS, Bootstrap and JavaScript.
